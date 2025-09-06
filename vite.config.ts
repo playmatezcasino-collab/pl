@@ -4,7 +4,6 @@
  
  // https://vitejs.dev/config/
  export default defineConfig({
-+  base: '/project-3/',
    plugins: [react()],
    optimizeDeps: {
      exclude: ['lucide-react'],
